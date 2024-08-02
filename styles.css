@@ -1,8 +1,9 @@
 body {
-  font-family: Arial, sans-serif;
+  font-family: "Roboto Mono", monospace;
   margin: 0;
   padding: 0;
-  background-color: #f4f4f4;
+  background-color: #1e1e1e;
+  color: #c5c6c7;
 }
 
 .container {
@@ -12,15 +13,15 @@ body {
 }
 
 header {
-  background: #333;
-  color: #fff;
+  background: #0b0c10;
+  color: #66fcf1;
   padding-top: 30px;
   min-height: 70px;
-  border-bottom: #0779e4 3px solid;
+  border-bottom: #45a29e 3px solid;
 }
 
 header a {
-  color: #fff;
+  color: #66fcf1;
   text-decoration: none;
   text-transform: uppercase;
   font-size: 16px;
@@ -52,8 +53,8 @@ header nav {
 
 #showcase {
   min-height: 200px;
-  background: #0779e4;
-  color: #fff;
+  background: #45a29e;
+  color: #0b0c10;
   text-align: center;
   padding: 100px 20px;
 }
@@ -69,7 +70,8 @@ header nav {
 
 #main {
   padding: 20px;
-  background: #fff;
+  background: #1f2833;
+  color: #c5c6c7;
 }
 
 #main h2 {
@@ -78,8 +80,8 @@ header nav {
 }
 
 footer {
-  background: #333;
-  color: #fff;
+  background: #0b0c10;
+  color: #66fcf1;
   text-align: center;
   padding: 20px;
   margin-top: 20px;
